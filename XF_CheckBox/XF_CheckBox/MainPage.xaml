@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:XF_CheckBox"
+             xmlns:Cont="clr-namespace:XF_CheckBox.Controls"
+             x:Class="XF_CheckBox.MainPage">
+  
+    <StackLayout BackgroundColor="White" Orientation="Horizontal">
+        <!-- Place new controls here -->
+        <Entry Placeholder=" enter something"/>
+        <Cont:Checkbox IsChecked="True" HorizontalOptions="Center"  Margin="0,7,0,0"   VerticalOptions="Start" OutlineColor="Black" CheckedOutlineColor="Red" CheckColor="Red"  WidthRequest="25" HeightRequest="25"/>
+
+    </StackLayout>
+
+</ContentPage>

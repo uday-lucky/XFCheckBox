@@ -1,0 +1,12 @@
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\bin\Debug\netstandard2.0\XF_CheckBox.deps.json
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\bin\Debug\netstandard2.0\XF_CheckBox.dll
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\bin\Debug\netstandard2.0\XF_CheckBox.pdb
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\XF_CheckBox.csprojAssemblyReference.cache
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\XF_CheckBox.csproj.CoreCompileInputs.cache
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\XF_CheckBox.AssemblyInfoInputs.cache
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\XF_CheckBox.AssemblyInfo.cs
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\XamlC.stamp
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\XF_CheckBox.dll
+D:\XF_CheckBox\XF_CheckBox\XF_CheckBox\obj\Debug\netstandard2.0\XF_CheckBox.pdb
